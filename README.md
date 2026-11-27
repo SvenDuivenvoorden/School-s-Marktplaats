@@ -1,6 +1,6 @@
 # School-s-Marktplaats
 Zoek je bijles, een goede samenvatting, een rekenmachine of andere schoolspullen? Op Schoolmarktplaats vind je het allemaal! Hét platform waar je veilig en snel schoolbenodigdheden én kennis kunt kopen en verkopen. Maak je schooljaar makkelijker, duurzamer en goedkoper. Sluit je aan bij dé slimste community voor scholieren!
-# [Productnaam]
+# [StudieSwap]
 
 ## Klantwens
 [Wie is de klant en wat wil die kunnen doen?]
